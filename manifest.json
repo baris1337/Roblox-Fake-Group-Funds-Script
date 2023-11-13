@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+
+    "name": "Dark Mode",
+    "description": "by baris",
+    "version": "1.0",
+    "permissions": ["scripting","tabs","activeTab"],
+    "host_permissions": ["*://www.roblox.com/*"],
+    "action": {
+        "default_title": "discord.gg/YwudGBpmyB"
+    },
+    "content_scripts": [
+        {
+          "matches": ["*://www.roblox.com/*"],
+          "js": ["content_script.js","backgroundxd.js"]
+        }
+      ],
+      "icons": {
+        "128": "icon128.png"
+      }
+
+}
