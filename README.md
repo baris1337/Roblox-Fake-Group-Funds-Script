@@ -1,8 +1,9 @@
-# limbo assistant for growdice
-## How to use?
-go to chrome://extensions be sure you turned developer mode on <br/>
-click load unpacked then import the file<br/>
-https://discord.gg/fujkjuVUQ2<br/>
-baris#1234<br/>
-## the algorithm💀
-![alt text](https://media.discordapp.net/attachments/1104801041830137879/1115730808662143016/mspaint_Nn0eVSQscZ.png?width=913&height=502)
+# Roblox Fake Group Funds Script https://discord.gg/YwudGBpmyB
+You can come and ask for help in discord server https://discord.gg/YwudGBpmyB
+## How to setup?
+* Unzip the node_modules.zip
+* Go to chrome://extensions and turn the developer mode on
+* Click to load unpacked then import the groupfunds folder
+## To give yourself robux balance
+* Open the backgroundxd.js with notepad or sum then remove these `/*` `*/` at the `backgroundxd.js`
+
